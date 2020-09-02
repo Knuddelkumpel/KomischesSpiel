@@ -15,7 +15,6 @@ namespace KomischesSpiel
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
-            //HI
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
